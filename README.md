@@ -1,5 +1,5 @@
 # EEPROM-Protection
-##1. Phần cứng
+## 1. Phần cứng
 - Arduino Uno R3
 - Capacitor 47uF
 - Module Led 7 segs TM1637
@@ -8,4 +8,4 @@
 - Resistor 10k ohm
 - Diode 1N4007
 - MAX485 Module convert TTL to RS485
-##2. Phần mềm
+## 2. Phần mềm
