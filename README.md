@@ -9,3 +9,8 @@
 - Diode 1N4007
 - MAX485 Module convert TTL to RS485
 ## 2. Phần mềm
+### 2.1. Thông số
+- Nguồn: USB 5V, có nguồn riêng cho Module LED
+- Tụ 4700uF: thời gian xả tụ từ 5V xuống 3.3V là 64.4ms
+- Baudrate: 9600
+- Timer 1: 0,1s
